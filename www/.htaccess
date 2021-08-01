@@ -1,0 +1,9 @@
+
+    RewriteEngine On
+
+    Options +FollowSymLinks -MultiViews
+
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    
+    RewriteRule (.*)/? /profile.php?code=$1 [PT,L]

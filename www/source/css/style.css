@@ -1,0 +1,6 @@
+.navbar-brand {color:#3498db;}
+body {padding-bottom: 40px;background-color: #DEDEDE;}
+.liked {pointer-events:none;}
+.navbar .container-fluid> .navbar-header{float:left;margin-right:10px;} .navbar .navbar-nav{float:left;margin:5px;} .nav>li{float:left;}.navbar-text img {margin-top:-10px;max-height:30px;width:auto;vertical-align:middle;}p{word-wrap: break-word;}
+p{word-wrap: break-word;}
+.profile-body:before {content: "";position: absolute;background-size: cover;z-index: -1;height: 22vh;width:20%;-webkit-transform: scale(5);-webkit-transform-origin: top left;-webkit-filter: brightness(87.5%);}

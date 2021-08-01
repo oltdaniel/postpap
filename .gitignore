@@ -1,0 +1,5 @@
+www/users/*
+!www/users/sample
+data/*
+logs/*
+config/*
